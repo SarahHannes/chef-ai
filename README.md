@@ -2,6 +2,8 @@
 
 Stuck on what to cook for dinner? Just enter the ingredients you have, and get instant recipe suggestions!
 
+<strong><a href="https://sarahhannes.github.io/chef-ai/"> 🍳 Click here to try it out!</a></strong>
+
 ## Table of contents
 
 - [Overview](#overview)
